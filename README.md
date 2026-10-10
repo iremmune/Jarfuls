@@ -1,0 +1,1 @@
+Jarfuls is a tiny, free chart maker. Rename any jar, add or remove jars, choose your color, and fill each one from 1 (a little) to 5 (overflowing). Filling a jar to 5 triggers a random overflow animation. Save the result as a PNG. No accounts, no tracking, nothing leaves your device.
